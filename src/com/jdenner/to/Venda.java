@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Classe contendo os dados da venda
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class Venda {
 

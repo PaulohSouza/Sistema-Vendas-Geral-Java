@@ -5,7 +5,7 @@ import java.sql.*;
 /**
  * Classe responsável por abrir a conexão com o banco de dados
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class Conexao {
 

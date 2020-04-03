@@ -12,7 +12,7 @@ import java.util.ArrayList;
 /**
  * Classe de acesso a dados da venda
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class VendaDAO implements IDAO<Venda> {
 

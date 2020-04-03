@@ -10,8 +10,8 @@ import javax.swing.table.TableRowSorter;
 
 /**
  * Janela de consulta a dados do cliente
- *
- * @author Juliano
+
+ * @author Paulo Henrique
  */
 public class BuscaCliente extends javax.swing.JDialog {
 
@@ -23,7 +23,7 @@ public class BuscaCliente extends javax.swing.JDialog {
         initComponents();
         carregarGrade();
     }
-
+    //Modelo Dao
     private void carregarGrade() {
         try {
             ClienteDAO clienteDAO = new ClienteDAO();

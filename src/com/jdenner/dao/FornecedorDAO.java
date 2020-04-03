@@ -8,7 +8,7 @@ import java.util.ArrayList;
 /**
  * Classe de acesso a dados do fornecedor
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class FornecedorDAO implements IDAO<Fornecedor> {
 

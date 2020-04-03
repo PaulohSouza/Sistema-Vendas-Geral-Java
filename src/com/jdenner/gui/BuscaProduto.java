@@ -9,9 +9,9 @@ import javax.swing.RowFilter;
 import javax.swing.table.TableRowSorter;
 
 /**
- * Janela de consulta a dados do produto
- *
- * @author Juliano
+ * Janela de consulta a dados relativo a produtos
+ 
+ * @author Paulo Henrique
  */
 public class BuscaProduto extends javax.swing.JDialog {
 

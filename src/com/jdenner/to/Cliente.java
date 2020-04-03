@@ -5,7 +5,7 @@ import java.util.Date;
 /**
  * Classe contendo os dados do cliente
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class Cliente {
 

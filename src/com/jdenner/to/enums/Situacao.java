@@ -3,7 +3,7 @@ package com.jdenner.to.enums;
 /**
  * Enumeração das possíveis situações de um registro
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public enum Situacao {
 

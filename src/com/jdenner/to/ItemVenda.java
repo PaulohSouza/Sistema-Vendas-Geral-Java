@@ -3,7 +3,7 @@ package com.jdenner.to;
 /**
  * Classe de relação entre a venda e o produto
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class ItemVenda {
 

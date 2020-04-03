@@ -3,7 +3,7 @@ package com.jdenner.gui;
 /**
  * Janela menu da aplicação
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class Menu extends javax.swing.JFrame {
 

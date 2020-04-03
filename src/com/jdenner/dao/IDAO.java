@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Interface para classes de acesso a dados
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public interface IDAO<Tipo> {
 

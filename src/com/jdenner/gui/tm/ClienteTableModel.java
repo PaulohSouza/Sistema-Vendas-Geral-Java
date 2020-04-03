@@ -7,7 +7,7 @@ import javax.swing.table.AbstractTableModel;
 /**
  * Classe que define o modelo para tabela contendo dados do cliente
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class ClienteTableModel extends AbstractTableModel {
 

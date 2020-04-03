@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 /**
  * Janela de lançamento de venda
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class LancamentoVenda extends javax.swing.JInternalFrame {
 

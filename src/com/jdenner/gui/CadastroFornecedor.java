@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 /**
  * Janela de cadastro de fornecedor
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class CadastroFornecedor extends javax.swing.JInternalFrame {
 

@@ -3,7 +3,7 @@ package com.jdenner.to;
 /**
  * Classe contendo os dados do fornecedor
  *
- * @author Juliano
+ * @author Paulo Henrique
  */
 public class Fornecedor {
 
